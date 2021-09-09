@@ -1,0 +1,2 @@
+Hardware vs Software: https://aissoftware.com.mt/differences-hardware-software/
+Differences between Compiled Languages (i.e., C++) and Interpreted Languages (i.e., Java) and execution of programs: https://www.geeksforgeeks.org/similarities-and-difference-between-java-and-c/
