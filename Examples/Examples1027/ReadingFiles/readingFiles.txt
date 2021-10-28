@@ -1,0 +1,4 @@
+This is a text file
+Each word represents a token when using the Scanner
+But.we.can.also.tell.the.scaner.to.use.a.different.delimiter.for.tokens
+We can also load every token into an array and then do stuff with it
