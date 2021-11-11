@@ -17,7 +17,6 @@ public class readingFilesFive {
         
         for (String str : listOfTokens)
             System.out.println(str);
-
         // Much better :)
 
         /* 
